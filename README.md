@@ -5,7 +5,7 @@ This repo contains the first portfolio which demonstrates the use of responsiven
 
 Getting Started
 Click on the following link to preview the completed assignment.
-https://ImanGurey.github.oi/responsive-portfolio
+https://ImanGurey.github.oi/responsive-portfolio/
 
 Built With
 HTML5
