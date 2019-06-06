@@ -5,8 +5,10 @@ This repo contains the first portfolio which demonstrates the use of responsiven
 
 Getting Started
 Click on the following link to preview the completed assignment.
- https://imangurey.github.io/Responsive-Portfolio/
-Built With
-HTML5
-CSS3
-Media
+
+https://imangurey.github.io/Responsive-Portfolio/
+
+*Built With
+*HTML5
+*CSS3
+*Media
