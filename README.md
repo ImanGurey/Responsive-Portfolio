@@ -9,6 +9,8 @@ Click on the following link to preview the completed assignment.
 
 https://imangurey.github.io/Responsive-Portfolio/
 
+Also crystal project has been linked to the portfolio.
+
 *Built With
 
 *HTML5
