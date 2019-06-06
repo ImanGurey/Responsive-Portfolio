@@ -9,6 +9,9 @@ Click on the following link to preview the completed assignment.
 https://imangurey.github.io/Responsive-Portfolio/
 
 *Built With
+
 *HTML5
+
 *CSS3
+
 *Media
