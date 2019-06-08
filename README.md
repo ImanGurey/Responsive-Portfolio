@@ -10,6 +10,7 @@ Click on the following link to preview the completed assignment.
 https://imangurey.github.io/Responsive-Portfolio/
 
  crystal project has been linked to the portfolio &
+ 
  https://imangurey.github.io/Trivia-Game/ 
 
 *Built With
