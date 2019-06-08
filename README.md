@@ -11,7 +11,7 @@ https://imangurey.github.io/Responsive-Portfolio/
 
  crystal project has been linked to the portfolio &
  
- https://imangurey.github.io/Trivia-Game/ 
+ Trivia-Game project has been linked to the portfolio
 
 *Built With
 
